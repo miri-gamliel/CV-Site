@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PqMko5jSOyE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\לימודים\\practycode\\5\\CvSite.WebAPI\\CvSite.Services\\CvSite.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\octokit\\14.0.0\\octokit.14.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\לימודים\practycode\5\CvSite.WebAPI\CvSite.Services\bin\Debug\net8.0\CvSite.Services.deps.json
+C:\Users\user1\Desktop\לימודים\practycode\5\CvSite.WebAPI\CvSite.Services\bin\Debug\net8.0\CvSite.Services.dll
+C:\Users\user1\Desktop\לימודים\practycode\5\CvSite.WebAPI\CvSite.Services\bin\Debug\net8.0\CvSite.Services.pdb
+C:\Users\user1\Desktop\לימודים\practycode\5\CvSite.WebAPI\CvSite.Services\obj\Debug\net8.0\CvSite.Services.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\practycode\5\CvSite.WebAPI\CvSite.Services\obj\Debug\net8.0\CvSite.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\practycode\5\CvSite.WebAPI\CvSite.Services\obj\Debug\net8.0\CvSite.Services.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\practycode\5\CvSite.WebAPI\CvSite.Services\obj\Debug\net8.0\CvSite.Services.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\practycode\5\CvSite.WebAPI\CvSite.Services\obj\Debug\net8.0\CvSite.Services.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\practycode\5\CvSite.WebAPI\CvSite.Services\obj\Debug\net8.0\CvSite.Services.dll
+C:\Users\user1\Desktop\לימודים\practycode\5\CvSite.WebAPI\CvSite.Services\obj\Debug\net8.0\refint\CvSite.Services.dll
+C:\Users\user1\Desktop\לימודים\practycode\5\CvSite.WebAPI\CvSite.Services\obj\Debug\net8.0\CvSite.Services.pdb
+C:\Users\user1\Desktop\לימודים\practycode\5\CvSite.WebAPI\CvSite.Services\obj\Debug\net8.0\ref\CvSite.Services.dll
